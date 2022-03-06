@@ -2,7 +2,8 @@
 
 CareerFoundry course - Rockbuster movie rental SQL analysis
 
-Tableau [Rockbuster Storyboard] (https://public.tableau.com/app/profile/farid.chehraz/viz/Ex3_10Rockbusterv2/Rockbuster?publish=yes)
+**Tableau** 
+[Rockbuster Storyboard] (https://public.tableau.com/app/profile/farid.chehraz/viz/Ex3_10Rockbusterv2/Rockbuster?publish=yes)
 
 **Introduction**
 
